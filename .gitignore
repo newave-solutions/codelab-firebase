@@ -1,6 +1,10 @@
 /node_modules
 /dist
 .angular
+<<<<<<< Updated upstream
+=======
+/src/environments/environment.local.ts
+>>>>>>> Stashed changes
 
 # Firebase
 .firebase
